@@ -32,19 +32,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="poppy_flowers.jpg" alt="Chania" width="460" height="345">
+        <img src="poppy_flowers.jpg" alt="Poppy" width="460" height="345">
       </div>
 
       <div class="item">
-        <img src="flower_img2.jpg" alt="Chania" width="460" height="345">
+        <img src="flower_img2.jpg" alt="Flower2" width="460" height="345">
       </div>
     
       <div class="item">
-        <img src="fall.jpg" alt="Flower" width="460" height="345">
+        <img src="fall.jpg" alt="Fall" width="460" height="345">
       </div>
 
       <div class="item">
-        <img src="fall_road.jpg" alt="Flower" width="460" height="345">
+        <img src="fall_road.jpg" alt="FallRoad" width="460" height="345">
       </div>
     </div>
 
